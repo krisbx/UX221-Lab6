@@ -12,6 +12,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/will-another-animal-join-the-choir/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -28,6 +33,11 @@
     <url>
         <loc>
             http://localhost:8000/author/krisbx/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/visceralz/
         </loc>
     </url>
 </urlset>
